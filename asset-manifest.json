@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FlappyDragon/static/css/main.bf9bfe00.css",
+    "main.js": "/FlappyDragon/static/js/main.880785a7.js",
+    "static/js/453.3ac9a365.chunk.js": "/FlappyDragon/static/js/453.3ac9a365.chunk.js",
+    "index.html": "/FlappyDragon/index.html",
+    "main.bf9bfe00.css.map": "/FlappyDragon/static/css/main.bf9bfe00.css.map",
+    "main.880785a7.js.map": "/FlappyDragon/static/js/main.880785a7.js.map",
+    "453.3ac9a365.chunk.js.map": "/FlappyDragon/static/js/453.3ac9a365.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf9bfe00.css",
+    "static/js/main.880785a7.js"
+  ]
+}
